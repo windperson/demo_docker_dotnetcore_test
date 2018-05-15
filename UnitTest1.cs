@@ -8,6 +8,7 @@ namespace dotnet_docker
         [Fact]
         public void Test1()
         {
+            /* uncomment to make this test fail */
             //Assert.True(false);
         }
     }
